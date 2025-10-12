@@ -17,8 +17,6 @@
 </div>
 <br>
 <h1 id="hello" align="center"> Hello World!🖐️ I am Mammad!</h1>
-
-<h2>:rocket: Data Science and Machine Learning Enthusiast</h2>
 <h2>:fire: My Stats<br><br>
 	
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mammadmammadov&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)	
