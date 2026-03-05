@@ -6,6 +6,7 @@
 
 **Operational Research × Data Science** · University of Edinburgh 🏫
 
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mammad-mammadov/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mammadmammadov)
 
@@ -21,15 +22,13 @@ location: Edinburgh, Scotland
 studying: MSc Operational Research with Data Science
 university: University of Edinburgh
 interests:
+  - Software Engineering
   - Data-Driven Decision Making
   - Mathematical Optimisation
-  - Machine Learning
-  - Software Engineering
+  - Machine Learning 
 currently: Building things that matter with code and maths
 ```
-
 ---
-
 
 ### 🐍 Watch My Contributions Get Eaten
 
