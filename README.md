@@ -34,10 +34,7 @@ currently: Building things that matter with code and maths
 ### 📊 GitHub Stats
 
 <div align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=mammadmammadov&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" height="170"/>
-&nbsp;&nbsp;
-
 </div>
 
 ---
