@@ -44,20 +44,8 @@ currently: Building things that matter with code and maths
 
 ---
 
-### 💬 Daily Dose of Wisdom
-
-<div align="center">
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
-
-</div>
-
----
-
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=mammadmammadov&style=flat-square&color=58A6FF" alt="Profile Views"/>
-
-*"The goal is to turn data into information, and information into insight."* — Carly Fiorina
 
 </div>
