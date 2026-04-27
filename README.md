@@ -21,11 +21,12 @@ name: Mammad Mammadov
 location: Edinburgh, Scotland
 studying: MSc Operational Research with Data Science
 university: University of Edinburgh
-interests:
+interest areas:
   - Software Engineering
-  - Data-Driven Decision Making
+  - Data-Driven Decision-Making
   - Machine Learning
-  - Theoretical Mathematics 
+  - Control Theory & Robot Learning
+  - Pure Mathematics 
 currently: Building things that matter with code and maths
 ```
 ---
