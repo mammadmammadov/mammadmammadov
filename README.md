@@ -24,8 +24,8 @@ university: University of Edinburgh
 interests:
   - Software Engineering
   - Data-Driven Decision Making
-  - Mathematical Optimisation
-  - Machine Learning 
+  - Machine Learning
+  - Theoretical Mathematics 
 currently: Building things that matter with code and maths
 ```
 ---
